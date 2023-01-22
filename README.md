@@ -1,5 +1,5 @@
 # XM Cloud Style Guide (Next JS)
-test
+
 ## QUICK START
 
 1. In an ADMIN terminal:
